@@ -1,0 +1,12 @@
+{
+  "id": "SSPOT-F94C51A295D9",
+  "type": "SmartSpot",
+  "physicalUrl" : "https://hpoi.info/325531235437",
+  "signalStrengh": "high",
+  "bluetoothChannel": "37-38-39",
+  "area": 30,
+  "interval": 500,
+  "availability": [ "T09:00:00Z/T14:00:00Z" , "T15:00:00Z/T19:00:00Z" ],  
+  "refSmartPointOfInteraction": "SPOI-ES-4326",
+  "refDevice": "device-9845A"
+}
